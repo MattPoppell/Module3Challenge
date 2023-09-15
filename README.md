@@ -12,4 +12,12 @@ N/A
 ## Usage
 The user first selects the red "generate password" button in the lower-middle of the window.  The user is then prompted to answer questions about the contents of the password to be generated.  Upon answering the last prompt, a random password based on criteria input by the user is generated and displayed in the text box.
 
+
+<img width="1423" alt="Screenshot 2023-09-15 at 8 39 26 AM" src="https://github.com/MattPoppell/congenial-rotary-phone/assets/142950050/9cbb6d9d-27f4-4d90-9521-acd5b1389ce7">
+
+
 ## Live Link
+https://mattpoppell.github.io/congenial-rotary-phone/
+
+## Credits
+I had some excellent guidance from my tutor on this challenge.  He assisted me in cleaning up my existing code and getting it to run smoother.
