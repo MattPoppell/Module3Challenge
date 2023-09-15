@@ -20,4 +20,4 @@ The user first selects the red "generate password" button in the lower-middle of
 https://mattpoppell.github.io/congenial-rotary-phone/
 
 ## Credits
-I had some excellent guidance from my tutor on this challenge.  He assisted me in cleaning up my existing code and getting it to run smoother.
+I had some excellent guidance from my tutor on this challenge.  He assisted me in cleaning up my existing code and getting it to run smoother.  This challenge also provided some starter code through the curriculum. It contained HTML, CSS, and JS files.  All starter code provided by the curriculum was included in completion of this challenge.
